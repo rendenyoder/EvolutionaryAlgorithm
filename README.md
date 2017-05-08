@@ -7,5 +7,5 @@
 + space: starts the game
 
 
-+*this was written in a few hours so it's a bit sketchy lol only tested in IntelliJ with rsc dir marked as resource dir
-+*an actual finished jar coming soon maybe?
++ *this was written in a few hours so it's a bit sketchy lol only tested in IntelliJ with rsc dir marked as resource dir
++ *an actual finished jar coming soon maybe?
